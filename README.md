@@ -62,6 +62,14 @@ The following diagram illustrates the overall enterprise network architecture us
 
 ---
 
+## DHCP
+![DHCP Success](dhcp-success.png)
+
+## DNS
+![DNS Success](dns-success.png)
+
+---
+
 ## Environment
 
 - Cisco Packet Tracer
