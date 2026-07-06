@@ -10,17 +10,7 @@ The project also demonstrates inter-VLAN communication through Router-on-a-Stick
 
 ---
 
-## Objectives
-
-- Design a segmented enterprise network
-- Configure VLAN-based communication
-- Implement automatic IP address allocation
-- Configure internal DNS and HTTP services
-- Verify end-to-end connectivity
-
----
-
-## Network Topology
+## Topology
 
 The following diagram illustrates the overall enterprise network architecture used in this project.
 
@@ -78,19 +68,14 @@ The following diagram illustrates the overall enterprise network architecture us
 
 ## Environment
 
-- Cisco Packet Tracer
-- Cisco 2911 Router
-- Cisco Catalyst 2960 Switch
-- Cisco IOS
+- Cisco Packet Tracer • Cisco IOS • Cisco 2911 • Catalyst 2960
 
 ---
 
 ## What I Learned
 
-- Learned how Router-on-a-Stick enables communication between multiple VLANs.
-- Configured DHCP pools and verified automatic IP assignment.
-- Built an internal DNS server and HTTP service for name-based web access.
-- Improved troubleshooting skills by testing and verifying network connectivity.
+- Implemented VLAN-based enterprise network using Router-on-a-Stick.
+- Verified end-to-end connectivity through DHCP, DNS, HTTP, and Inter-VLAN routing.
 
 ---
 
