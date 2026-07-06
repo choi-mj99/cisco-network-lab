@@ -61,7 +61,7 @@ The following diagram illustrates the overall enterprise network architecture us
 ## HTTP
 ![HTTP Success](http-success.png)
 
-## PING
+## Inter-VLAN Routing
 ![PING Success](ping-success.png)
 
 ---
