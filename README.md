@@ -77,3 +77,10 @@ The following diagram illustrates the overall enterprise network architecture us
 - Configured DHCP pools and verified automatic IP assignment.
 - Built an internal DNS server and HTTP service for name-based web access.
 - Improved troubleshooting skills by testing and verifying network connectivity.
+
+---
+
+## Project Files
+
+- enterprise-network-lab.pkt
+- topology.png
