@@ -14,7 +14,7 @@ The project also demonstrates inter-VLAN communication through Router-on-a-Stick
 
 The following diagram illustrates the overall enterprise network architecture used in this project.
 
-![Enterprise Network Topology](topology.png)
+![Enterprise Network Topology](images/topology.png)
 
 ---
 
@@ -53,16 +53,16 @@ The following diagram illustrates the overall enterprise network architecture us
 ---
 
 ## DHCP
-![DHCP Success](dhcp-success.png)
+![DHCP](images/dhcp-success.png)
 
 ## DNS
-![DNS Success](dns-success.png)
+![DNS Success](images/dns-success.png)
 
 ## HTTP
-![HTTP Success](http-success.png)
+![HTTP Success](images/http-success.png)
 
 ## Inter-VLAN Routing
-![PING Success](ping-success.png)
+![PING Success](images/ping-success.png)
 
 ---
 
@@ -85,3 +85,11 @@ The following diagram illustrates the overall enterprise network architecture us
 - Configure OSPF Routing
 - Implement NAT
 - Add Network Redundancy
+
+---
+
+## Project Files
+
+| File | Description |
+|------|-------------|
+| `packet-tracer/enterprise-network-lab.pkt` | Complete Cisco Packet Tracer project |
