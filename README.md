@@ -22,7 +22,9 @@ The project also demonstrates inter-VLAN communication through Router-on-a-Stick
 
 ## Network Topology
 
-(여기에 topology.png)
+The following diagram illustrates the overall enterprise network architecture used in this project.
+
+![Enterprise Network Topology](topology.png)
 
 ---
 
