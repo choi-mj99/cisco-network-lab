@@ -68,6 +68,12 @@ The following diagram illustrates the overall enterprise network architecture us
 ## DNS
 ![DNS Success](dns-success.png)
 
+## HTTP
+![HTTP Success](http-success.png)
+
+## PING
+![PING Success](ping-success.png)
+
 ---
 
 ## Environment
