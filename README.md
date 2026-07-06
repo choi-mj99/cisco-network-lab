@@ -80,7 +80,9 @@ The following diagram illustrates the overall enterprise network architecture us
 
 ---
 
-## Project Files
+## Future Improvements
 
-- enterprise-network-lab.pkt
-- topology.png
+- Implement Standard and Extended ACL
+- Configure OSPF Routing
+- Implement NAT
+- Add Network Redundancy
